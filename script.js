@@ -14,3 +14,8 @@ for(let i=10;i>=1;i--){
 for(let i=2;i<=10;i+=2){
     console.log(i);
 }
+
+//Fourth question
+for(let i=100;i>=1;i-=10){
+    console.log(i);
+}
